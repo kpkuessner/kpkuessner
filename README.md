@@ -8,22 +8,23 @@ better through design & code.
 
 ### 👨‍💻 What I'm focusing on...
 
-Currently improving my iOS & macOS developer skills: Swift, SwiftUi and UIKit.<br />
+I am constantly improving my skills in iOS & macOS development: Swift, SwiftUi and Python.<br />
 
 ### Languages and tools:
 
 <code>c#</code>
 <code>Pascal</code>
+<code>Python</code>
 <code>Swift</code>
-<code>Delphi</code>
-<code>Figma</code>
-<code>Git</code>
-<code>Tower</code>
-<code>TextMate</code>
-<code>Visual Studio</code>
-<code>Xcode</code>
 <code>Affinity Designer</code>
-<code>Photoshop</code>
+<code>DBeaver</code>
+<code>Delphi</code>
+<code>Docker</code>
+<code>Git</code>
+<code>Markdown</code>
+<code>Pixelmator Pro</code>
+<code>Xcode</code>
+<code>Visual Studio Code</code>
 
 ### Find me elsewhere 🌎
 
