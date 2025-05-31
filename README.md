@@ -13,6 +13,7 @@ I am constantly improving my skills in iOS & macOS development: Swift, SwiftUi a
 ### Languages and tools:
 
 <code>c#</code>
+<code>Lua</code>
 <code>Pascal</code>
 <code>Python</code>
 <code>Swift</code>
@@ -21,7 +22,9 @@ I am constantly improving my skills in iOS & macOS development: Swift, SwiftUi a
 <code>Delphi</code>
 <code>Docker</code>
 <code>Git</code>
+<code>LaTeX</code>
 <code>Markdown</code>
+<code>Neovim</code>
 <code>Pixelmator Pro</code>
 <code>Xcode</code>
 <code>Visual Studio Code</code>
