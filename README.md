@@ -15,9 +15,10 @@ I am constantly improving my skills in iOS & macOS development: Swift, SwiftUi a
 <code>c#</code>
 <code>css</code>
 <code>Lua</code>
-<code>Pascal</code>
+<code>Object Pascal</code> 
 <code>Python</code>
 <code>Swift</code>
+<code>Turbo Pascal</code>
 <code>Affinity Designer</code>
 <code>DBeaver</code>
 <code>Delphi</code>
@@ -27,7 +28,7 @@ I am constantly improving my skills in iOS & macOS development: Swift, SwiftUi a
 <code>Markdown</code>
 <code>Neovim</code>
 <code>Pixelmator Pro</code>
-<code>Rider</code>
+<code>JetBrains Rider</code>
 <code>Xcode</code>
 <code>Visual Studio Code</code>
 
