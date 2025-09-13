@@ -8,7 +8,7 @@ better through design & code.
 
 ### 👨‍💻 What I'm focusing on...
 
-I am constantly improving my skills in iOS & macOS development: Swift, SwiftUi and Python.<br />
+I am continuously expanding my knowledge of software development and work with Swift & SwiftUI for native iOS/macOS applications, C# & .NET for cross-platform solutions, Blazor for modern web applications, and Python for versatile development tasks. With my experience in UI/UX design, I develop applications that are not only functional but also intuitive to use. For an efficient development process, I use tools such as Radzen and JetBrains Rider.<br />
 
 ### Languages and tools:
 
